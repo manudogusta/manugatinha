@@ -1,11 +1,6 @@
 # manuzinha
 
-- 👋 Hi, I’m @manuellle_torres
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-manudogusta/manudogusta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+- ig: @manuellle_torres
+-meu email de contato é manoelle.torres@escola.pr.gov.
+- estou  interresado em aprender novas limguagens.
+- eu estou aprendendo a programar recentemente a linguagem de Javascript e Scratch.       
